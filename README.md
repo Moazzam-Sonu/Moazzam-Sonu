@@ -1,5 +1,5 @@
 
-[![MasterHead](https://hackernoon.imgix.net/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif)](https://moazzamshabbir.netlify.app/)
+[![MasterHead](https://hackernoon.imgix.net/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif)](https://moazzamshabbir.vercel.app/)
 <h1 align="center">Hi 👋, I'm Moazzam Shabbir</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.webp">
@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Artificial intelligence**
 
-- 👨‍💻 All of my projects are available at [https://moazzamshabbir.netlify.app/](https://moazzamshabbir.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://moazzamshabbir.vercel.app/](https://moazzamshabbir.vercel.app/)
 
 - 💬 Ask me about **MERN , Bigcommerce , Brilliant Directory**
 
 - 📫 How to reach me **moazzamsono@gmail.com**
 
-- 📄 Know about my experiences [https://moazzamshabbir.netlify.app/](https://moazzamshabbir.netlify.app/)
+- 📄 Know about my experiences [https://moazzamshabbir.vercel.app/](https://moazzamshabbir.vercel.app/)
 
 - ⚡ Fun fact **i'm also memer**
 
